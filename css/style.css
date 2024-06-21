@@ -51,9 +51,12 @@ body{
    font-family: "Jersey 25 Charted", sans-serif;
    color: black;
 }
-.fa-solid {
-   margin-left: 1450px;
+#lap{
+   display: flex;
+   justify-content: flex-end;
 }
+   
+
 h4{
    font-size: x-large;
    text-decoration: underline;
