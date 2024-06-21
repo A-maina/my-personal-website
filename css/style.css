@@ -1,3 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jersey+25+Charted&family=Playwrite+AU+SA:wght@100..400&display=swap');
 body{
-    background: blue;
+   background-image: url(https://images.unsplash.com/photo-1512295767273-ac109ac3acfa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z3JhcGhpYyUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3Ds);
+   background-repeat: no-repeat;
+ background-size: cover; 
 }
+.h1{
+   display: flex;
+   justify-content: center;
+   color: black;
+   font-family: "Bebas Neue", sans-serif;
+   text-decoration: underline;
+   font-size: 20px;
+}
+.navb{
+   width: 50px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   padding: 20px;
+   border-radius: 90px;   
+}
+.navb a{
+   margin: 20px;
+   text-decoration: none;
+   color: black;
+   font-size:larger;
+   font-family: "Bebas Neue", sans-serif;
+}
+.about{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+   
+   
+}
+.about h3{
+   color: black;
+   font-size: x-large;
+   font-family: "Bebas Neue", sans-serif;
+}
+.about h2{
+   color:black;
+   font-size: xx-large;
+   font-family: "Bebas Neue", sans-serif;
+}
+.about p{
+   font-size: x-large;
+   font-family: "Jersey 25 Charted", sans-serif;
+   color: black;
+}
+.fa-solid {
+   margin-left: 1450px;
+}
+h4{
+   font-size: x-large;
+   text-decoration: underline;
+}
+.fa-brands{
+   color: black;
+}
+  .icon{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+  } 
+   
